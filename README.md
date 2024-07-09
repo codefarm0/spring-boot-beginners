@@ -34,54 +34,42 @@ Creating a comprehensive course for beginners in Spring Boot that includes a rea
 #### **5. Spring Boot Data Access**
    - **Lesson 5.1:** Introduction to Spring Data JPA
    - **Lesson 5.2:** Configuring Data Source
-   - **Lesson 5.3:** Creating Repository Interfaces
-   - **Lesson 5.4:** CRUD Operations with JPA Repositories
+   - **Lesson 5.3:** Using H2 Database for Development (MYSQL for Prod & Testing)
+   - **Lesson 5.4:** Creating Repository Interfaces
+   - **Lesson 5.5:** CRUD Operations with JPA Repositories
 
-#### **6. Spring Boot and Databases**
-   - **Lesson 6.1:** Connecting to a Relational Database (MySQL/PostgreSQL)
-   - **Lesson 6.2:** Using H2 Database for Development
-   - **Lesson 6.3:** Database Migrations with Flyway/Liquibase
-
-#### **7. Exception Handling**
-   - **Lesson 7.1:** Handling Exceptions in Spring Boot
+#### **6. Exception Handling**
+   - **Lesson 6.1:** Handling Exceptions in Spring Boot
      - @ControllerAdvice and @ExceptionHandler
-   - **Lesson 7.2:** Custom Exception Handling
+   - **Lesson 6.2:** Custom Exception Handling
 
-#### **8. Building a Real-Time Project**
-   - **Lesson 8.1:** Project Overview and Requirements
-   - **Lesson 8.2:** Designing the Architecture
-   - **Lesson 8.3:** Setting Up the Project
-   - **Lesson 8.4:** Developing the REST API
-   - **Lesson 8.5:** Implementing Business Logic
-   - **Lesson 8.6:** Database Integration
-   - **Lesson 8.7:** Exception Handling and Validation
-   - **Lesson 8.8:** Testing the Application
-   - **Lesson 8.9:** Building and Deploying the Application
+#### **7. Testing in Spring Boot**
+   - **Lesson 7.1:** Introduction to Unit Testing
+   - **Lesson 7.2:** Writing Unit Tests with JUnit and Mockito
+   - **Lesson 7.3:** Integration Testing with Spring Boot
+   - **Lesson 7.4:** Testing RESTful Services
 
-#### **9. Testing in Spring Boot**
-   - **Lesson 9.1:** Introduction to Unit Testing
-   - **Lesson 9.2:** Writing Unit Tests with JUnit and Mockito
-   - **Lesson 9.3:** Integration Testing with Spring Boot
-   - **Lesson 9.4:** Testing RESTful Services
+#### **8. Security in Spring Boot**
+   - **Lesson 8.1:** Introduction to Spring Security
+   - **Lesson 8.2:** Implementing Basic Authentication
+   - **Lesson 8.3:** JWT Authentication
+   - **Lesson 8.4:** Role-Based Access Control
 
-#### **10. Security in Spring Boot**
-   - **Lesson 10.1:** Introduction to Spring Security
-   - **Lesson 10.2:** Implementing Basic Authentication
-   - **Lesson 10.3:** JWT Authentication
-   - **Lesson 10.4:** Role-Based Access Control
+#### **9. Advanced Topics**
+   - **Lesson 9.1:** Introduction to Microservices with Spring Boot
+   - **Lesson 9.2:** Service Registration and Discovery with Eureka
+   - **Lesson 9.3:** Circuit Breaker with Resilience4j
+   - **Lesson 9.4:** API Gateway with Spring Cloud Gateway
 
-#### **11. Advanced Topics**
-   - **Lesson 11.1:** Introduction to Microservices with Spring Boot
-   - **Lesson 11.2:** Service Registration and Discovery with Eureka
-   - **Lesson 11.3:** Circuit Breaker with Hystrix
-   - **Lesson 11.4:** API Gateway with Spring Cloud Gateway
-
-#### **12. Deployment and Monitoring**
-   - **Lesson 12.1:** Building Docker Images
-   - **Lesson 12.2:** Deploying to a Cloud Platform (AWS, Azure, or Heroku)
-   - **Lesson 12.3:** Monitoring and Logging
+#### **10. Deployment, Monitoring & Logging **
+   - **Lesson 10.1:** Building Docker Images
+   - **Lesson 10.2:** Deploying to a Cloud Platform (AWS, Azure, or Heroku)
+   - **Lesson 10.3:** Monitoring and Logging
      - Spring Boot Actuator
      - ELK Stack
+  - **Lesson 10.3:** Centralize Config Server
+  - **Lesson 10.3:** Distributed Tracing with Micrometer & Zipkin
+
 
 ## Project Work: Building a Real-Time Application
 **Project Idea:** Develop a Student Management System
