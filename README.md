@@ -89,4 +89,9 @@ Creating a comprehensive course for beginners in Spring Boot that includes a rea
   - Docker (for containerization)
   - Thymeleaf (for frontend)
  
+## References
+ - https://docs.spring.io/spring-framework/reference/overview.html
+ - https://spring.io/projects
+ - https://spring.io/projects/spring-boot
+ 
 ## Mock Interview Questions based on this course
